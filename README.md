@@ -1,5 +1,5 @@
-Olá, eu sou a Geiziane Souza ! 🥰 
-Sou estudante de Análise e Desenvolvimento de Sistemas na Universidade Estácio de Sá (UNESA)
+Olá, meu nome é Geiziane Souza ! 🥰 
+Sou estudante de Análise e Desenvolvimento de Sistemas na Universidade Estácio de Sá (UNESA), sou formada em Arquitetura e Urbanismo pela (UFRJ) e estou atualmente em transição de carreira. Almejo a área de front end development e UX UI design. 
 <div align="center">
   <a href="https://github.com/Geiziane-Souza">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Geiziane-Souza&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
