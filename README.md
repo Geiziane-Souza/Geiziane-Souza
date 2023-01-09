@@ -23,8 +23,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas na Universidade Estácio
     <h2>Aprendendo 📚</h2>  
     <img align="center" alt="Anne-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
     <img align="center" alt="Anne-NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
-    
-
+  </div>
 
     
  <h2>Contatos ☎️</h2>
