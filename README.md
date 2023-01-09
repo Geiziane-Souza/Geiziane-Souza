@@ -16,7 +16,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas na Universidade Estácio
     <img align="center" alt="Anne-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
     
     </div>
-  </div>
+
 
     
   <div>
@@ -25,7 +25,9 @@ Sou estudante de Análise e Desenvolvimento de Sistemas na Universidade Estácio
     <img align="center" alt="Anne-NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
     <img align="center" alt="Anne-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
     <img align="center" alt="Anne-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg"/>
-    <img align="center" alt="Anne-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
+    <img align="center" alt="Anne-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+    <img align="center" alt="Anne-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+    
   </div>
 
     
