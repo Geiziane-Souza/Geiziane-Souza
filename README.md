@@ -14,8 +14,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas na Universidade Estácio
     <img align="center" alt="Anne-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
     <img align="center" alt="Anne-boot" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
     <img align="center" alt="Anne-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-    
-    </div>
+   
 
 
     
