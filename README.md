@@ -28,7 +28,7 @@ Atualmente migrando de carreira, eu sou formada em Arquitetura e Urbanismo pela 
     <img align="center" alt="Anne-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
   </div>
 
-    
+  <div align="center">
  <h2>Contatos ☎️</h2>
   <a href="https://instagram.com/anne_liina" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <a href = "mailto:geiziane.souza16@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
