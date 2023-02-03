@@ -3,10 +3,10 @@ Olá, meu nome é Geiziane !
 Atualmente migrando de carreira, eu sou formada em Arquitetura e Urbanismo pela Universidade Federal do Rio de Janeiro (UFRJ). Estudo Análise e Desenvolvimento de Sistemas na Universidade Estácio de Sá (UNESA). Sempre fui apaixonada por tecnologia, jogos e design. E estou me encontrando na área de desenvolvimento, focando em Front-End, no qual posso utilizar ferramentas de design que já tive contanto prévio em arquiteta. 
   <div align="center">
     <a href="https://github.com/Geiziane-Souza">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Geiziane-Souza&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Geiziane-Souza&layout=compact&langs_count=7&theme=dracula"/>
+    <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=Geiziane-Souza&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Geiziane-Souza&layout=compact&langs_count=7&theme=dracula"/>
   </div>
-  <div align="left">
+  <div>
   <h2>Competências 🥇</h2> 
     <img align="center" alt="Anne-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="Anne-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -18,7 +18,7 @@ Atualmente migrando de carreira, eu sou formada em Arquitetura e Urbanismo pela 
 
 
     
-  <div align="right">
+  <div>
     <h2>Aprendendo 📚</h2>  
     <img align="center" alt="Anne-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
     <img align="center" alt="Anne-NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
