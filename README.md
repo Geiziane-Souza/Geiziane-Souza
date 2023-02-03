@@ -1,7 +1,7 @@
   <h1>Quem sou eu ✨</h1>
 Olá, meu nome é Geiziane ! 
 Atualmente migrando de carreira, eu sou formada em Arquitetura e Urbanismo pela Universidade Federal do Rio de Janeiro (UFRJ). Estudo Análise e Desenvolvimento de Sistemas na Universidade Estácio de Sá (UNESA). Sempre fui apaixonada por tecnologia, jogos e design. E estou me encontrando na área de desenvolvimento, focando em Front-End, no qual posso utilizar ferramentas de design que já tive contanto prévio em arquiteta. 
-  <div align="center">
+  <div>
     <a href="https://github.com/Geiziane-Souza">
     <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=Geiziane-Souza&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
     <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Geiziane-Souza&layout=compact&langs_count=7&theme=dracula"/>
